@@ -1,0 +1,4 @@
+[2024-06-01 19:15:57] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/portfolio
+[2024-06-01 19:15:58] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/portfolio
+[2024-06-01 19:16:05] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/portfolio
+[2024-06-01 19:16:06] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/portfolio
